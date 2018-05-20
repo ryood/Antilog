@@ -1,0 +1,17 @@
+電圧→電流変換（アンチログ）
+
+参考
+
+Analog2.0
+単電源低電圧向きアンチログ回路 http://gaje.jp/technotes/antilog_single/
+アンチログ回路勉強中 http://gaje.jp/2006/03/13/191/
+アンチログ回路勉強中(2) http://gaje.jp/2006/03/16/192/
+
+トランジスタ技術2015年8月号 「特集 音×アナログ！楽器エフェクタ製作集」
+http://www.bernacomp.com/elec/og2/og3_moogladder.html
+
+Analog2.0
+Analog2.0反転
+MiniMoogタイプ
+
+シミュレーションは出力電流を対数軸にして検討
